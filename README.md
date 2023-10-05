@@ -31,6 +31,14 @@
 - Build Secondary Component
 - Build Movie List
 - build Movie Card
+-      MainContainer
+            - Video Background
+            - Video Title
+          SecondaryContainer
+            - MovieList * n
+              - cards * n
+  
+
 - TMDB Image CDN URL
 - Made the Browser page amazing with Tailwind CSS
 - usePopularMovies Custom hook
